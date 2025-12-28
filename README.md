@@ -1,4 +1,5 @@
 <img width="1413" height="799" alt="image" src="https://github.com/user-attachments/assets/03edd43c-1069-415d-bf09-c0dcc0d63332" />
+<img width="1487" height="812" alt="image" src="https://github.com/user-attachments/assets/7e53bfc8-f3ab-4159-a8af-38f994c8d8a1" />
 
 # -Amazon-Sales-Product-Analytics-Dashboard-Power-BI-
 📊 Amazon Sales &amp; Product Analytics Dashboard (Power BI)
