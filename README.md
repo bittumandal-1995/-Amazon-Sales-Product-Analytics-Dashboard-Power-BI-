@@ -69,3 +69,5 @@ Mid-range products offer the best balance between price, rating, and popularity
 Premium products receive slightly higher ratings but show lower customer engagement
 
 Discounting is used strategically, especially in electronics and home-related categories
+
+📌 *This project was created as an independent portfolio project to demonstrate business intelligence, data modeling, and analytical thinking using Power BI.*
