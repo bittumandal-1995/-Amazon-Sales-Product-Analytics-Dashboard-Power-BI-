@@ -1,3 +1,5 @@
+<img width="1413" height="799" alt="image" src="https://github.com/user-attachments/assets/03edd43c-1069-415d-bf09-c0dcc0d63332" />
+
 # -Amazon-Sales-Product-Analytics-Dashboard-Power-BI-
 📊 Amazon Sales &amp; Product Analytics Dashboard (Power BI)
 🔹 Project Overview
